@@ -6,4 +6,3 @@ sudo apt-get install -y elixir
 sudo apt-get install -y git nodejs npm inotify-tools postgresql postgresql-contrib dconf-cli
 sudo ln -s /usr/bin/nodejs /usr/bin/node
 sudo apt-get install -y exuberant-ctags
-sudo apt-get install -y vim emacs

@@ -1,5 +1,5 @@
 #!/bin/bash
-
+sudo apt-get install -y vim vim-gnome
 # vim setup
 VIM_GIT_DIRECTORY=~/.vim_runtime
 
