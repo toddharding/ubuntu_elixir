@@ -7,3 +7,4 @@ source setup_emacs.sh
 source setup_nautilus.sh
 source setup_terminal.sh
 source setup_unity.sh
+source setup_zsh.sh
